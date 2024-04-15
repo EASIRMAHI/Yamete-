@@ -1,7 +1,7 @@
-{
+- {
   "facebookAccount": {
-    "email": "sabbir11222w@gmail.com",
-    "password": "01200120mahi",
+    "email": "sisirsarkar5604@gmail.com",
+    "password": "sisir55773",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -18,16 +18,14 @@
   },
   "adminBot": [
     "100079908017635",
-    "",
-    "100072881080249",
-    "61555064473725"
+    "100081894480123"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝔅𝔞𝔫𝔨𝔞𝔦 𝔟𝔬𝔱 ",
+  "nickNameBot": "𝗠𝗘𝗦𝗦𝗔𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧𝗕𝗢𝗧",
   "prefix": "-",
   "database": {
     "type": "sqlite",
@@ -40,14 +38,14 @@
   "credentials": {
     "gmailAccount": {
       "email": "xemonbae@gmail.com",
-      "clientId": "703210852639-ic8u4br6bdo6jg6dgguirqi7jkgbpl6l.apps.googleusercontent.com/",
+      "clientId": "703210852639-ic8u4br6bdo6jg6dgguirqi7jkgbpl6l.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04svAaCtGHs-ICgYIARAAGAQSNwF-L9IrjiQvNzr409HIVspHncIVnrz7ZI5VxTU3dvw5TwHLZi1BhYEwEJNs9YpLDm7xDEBt1fU",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "6LesKYgpAAAAAL4fodXBHXocKQzvP9uXLFvavI18",
-      "secretKey": "6LesKYgpAAAAAOKKCkeeHYPSi0ublhQ0wRa6Axuq"
+      "siteKey": "6LesKYgpAAAAAOKKCkeeHYPSi0ublhQ0wRa6Axuq",
+      "secretKey": "6LesKYgpAAAAAL4fodXBHXocKQzvP9uXLFvavI18"
     }
   },
   "dashBoard": {
@@ -101,43 +99,4 @@
       "enable": false,
       "botToken": "",
       "chatId": "",
-      "note": "Can send notifications to many chatId, separate by comma or space, example: \"123456789 987654321\" (without backslash)"
-    },
-    "discordHook": {
-      "enable": false,
-      "webhookUrl": "",
-      "note": "Can send notifications to many webhookUrl, separate by comma or space, example: \"https://discord.com/api/webhooks/123456789/123456789 https://discord.com/api/webhooks/987654321/987654321\" (without backslash)"
-    }
-  },
-  "hideNotiMessage": {
-    "wrongCommand": false,
-    "adminOnly": false,
-    "threadBanned": false,
-    "userBanned": false,
-    "needRoleToUseCmdOnReply": false,
-    "needRoleToUseCmdOnReaction": false
-  },
-  "logEvents": {
-    "disableAll": false,
-    "message": true,
-    "message_reaction": true,
-    "message_unsend": true,
-    "message_reply": true,
-    "event": true,
-    "read_receipt": false,
-    "typ": false,
-    "presence": false
-  },
-  "optionsFca": {
-    "forceLogin": true,
-    "listenEvents": true,
-    "updatePresence": true,
-    "listenTyping": true,
-    "logLevel": "error",
-    "selfListen": false,
-    "selfListenEvent": true,
-    "autoMarkDelivery": false,
-    "autoReconnect": true,
-    "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
-  }
-}
+      "note": "Can send notifications to many chatId, se
