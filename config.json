@@ -18,14 +18,16 @@
   },
   "adminBot": [
     "100079908017635",
-    "100081894480123"
+    "",
+    "100072881080249",
+    "61555064473725"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝗠𝗘𝗦𝗦𝗔𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧𝗕𝗢𝗧",
+  "nickNameBot": "𝔅𝔞𝔫𝔨𝔞𝔦 𝔟𝔬𝔱 ",
   "prefix": "-",
   "database": {
     "type": "sqlite",
